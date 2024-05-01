@@ -1,0 +1,82 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "Book 1",
+        "author": "Author 1",
+        "price": 19,
+        "image": "book1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Book 2",
+        "author": "Author 2",
+        "price": 24,
+        "image": "book2.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Book 3",
+        "author": "Author 3",
+        "price": 29,
+        "image": "book3.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Book 4",
+        "author": "Author 4",
+        "price": 34,
+        "image": "book4.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Book 5",
+        "author": "Author 5",
+        "price": 39,
+        "image": "book5.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Book 6",
+        "author": "Author 6",
+        "price": 6,
+        "image": "book6.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Book 7",
+        "author": "Author 7",
+        "price": 24,
+        "image": "book7.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Book 8",
+        "author": "Author 8",
+        "price": 9,
+        "image": "book8.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Book 9",
+        "author": "Author 9",
+        "price": 20,
+        "image": "book9.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Book 10",
+        "author": "Author 10",
+        "price": 15,
+        "image": "book10.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Book 11",
+        "author": "Author 11",
+        "price": 9,
+        "image": "book11.jpg"
+      }
+    ]
+  }
+  
